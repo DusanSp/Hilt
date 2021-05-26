@@ -1,0 +1,1 @@
+D:\Workspace\Exercise\Hilt\buildSrc\build\classes\kotlin\main\BuildConfig.class;D:\Workspace\Exercise\Hilt\buildSrc\build\classes\kotlin\main\ClassPath.class;D:\Workspace\Exercise\Hilt\buildSrc\build\classes\kotlin\main\Core.class;D:\Workspace\Exercise\Hilt\buildSrc\build\classes\kotlin\main\Libs.class;D:\Workspace\Exercise\Hilt\buildSrc\build\classes\kotlin\main\Versions.class
